@@ -2,6 +2,8 @@ import {users as users1} from './users.js';
 import users from './users.json' assert {type: "json"};
 import axios from 'axios';
 
+//REGISTRAR VARIOS USUARIOS A PARA TES
+
 let registerLink = ' http://localhost:3003/api-auth/auth/register';
 let anOtherUsers = users.slice(2, 27);
 function countEmailsWithUpperCaseLetters(users) {
