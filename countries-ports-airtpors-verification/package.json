@@ -1,0 +1,20 @@
+{
+  "name": "countries-ports-airtpors-verification",
+  "version": "1.0.0",
+  "description": "verify ports country in language of conuntry info",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx ts-node index.ts "
+  },
+  "keywords": [
+    "ts",
+    "typescript"
+  ],
+  "author": "juanda Iron-mind",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+
+}
